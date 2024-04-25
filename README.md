@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loris155
 - 👀 I’m interested in developpement
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
